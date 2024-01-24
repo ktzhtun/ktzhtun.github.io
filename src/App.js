@@ -1,5 +1,5 @@
 // Import necessary dependencies
-import React from 'react';
+// import React from 'react';
 import './App.css'; 
 // Header component
 const Header = () => {
@@ -122,13 +122,13 @@ const App = () => {
   return (
     <div>
       <Header />
-      <CareerObjective />
+      {/* <CareerObjective />
       <Education />
       <WorkExperience />
       <Publications />
       <PartTimeWorkExperience />
       <Skills />
-      <Achievements />
+      <Achievements /> */}
     </div>
   );
 };
